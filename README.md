@@ -1,4 +1,4 @@
-************** The Investment Problem Algorithms**************
+**The Investment Problem Algorithms**
 •	Sort the set of investments S based on the returns r each item in the set brings using the quick sort algorithm. 
 •	Create variables totalReturns and i and initialize them to zero.
 •	Compare the total amount to be invested A first to the investment item in the set with the highest amount required ai. (This would be the first for a sorted set).
