@@ -1,4 +1,4 @@
-**The Investment Problem Algorithms**<br>
+**The Investment Problem Algorithm**<br>
 
 1. Sort the set of investments S based on the returns r each item in the set brings using the quick sort algorithm. 
 2. Create variables totalReturns and i and initialize them to zero.
